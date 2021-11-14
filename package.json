@@ -1,0 +1,22 @@
+{
+  "name": "ereportcard",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "php:serve": "php -S localhost:2000 -t ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvlprroshan/ereportcard.git"
+  },
+  "keywords": [
+    "php",
+    "managemnet"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvlprroshan/ereportcard/issues"
+  },
+  "homepage": "https://github.com/dvlprroshan/ereportcard#readme"
+}
